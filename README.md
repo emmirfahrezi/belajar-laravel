@@ -1,8 +1,3 @@
-##Belajar Laravel
-###Belajar Laravel
+## yang emir di rubah sama nanda
 
-pake github
-
-```
-ini kodenya
-```
+jdaflkds
